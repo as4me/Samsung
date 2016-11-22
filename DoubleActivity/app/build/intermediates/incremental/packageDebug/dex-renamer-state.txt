@@ -1,0 +1,7 @@
+#Sat Nov 19 16:14:28 MSK 2016
+base.0=C\:\\Users\\Acer\\AndroidStudioProjects\\DoubleActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_daeae56a2bdc8dd97befc5dc0d0036f093553d5d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Acer\\AndroidStudioProjects\\DoubleActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16e42165092a6bac3cc4c3dbc3ea443be0cc10dc\\classes.dex
+base.1=C\:\\Users\\Acer\\AndroidStudioProjects\\DoubleActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16e42165092a6bac3cc4c3dbc3ea443be0cc10dc
+file.0=C\:\\Users\\Acer\\AndroidStudioProjects\\DoubleActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_daeae56a2bdc8dd97befc5dc0d0036f093553d5d\\classes.dex
