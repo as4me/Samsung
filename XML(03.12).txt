@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE school [
+  <!ENTITY s "Ученики">
+  <!ENTITY t "Учителя">
+  <!ENTITY d "Директор">
+  <!ENTIRY c "Классы">
+]>
+<school id="1">
+  <Students>
+           <name>&n; Абанин Александр Дмитриевич </name>
+           <name>&n; Абанин Денис Дмитриевич  </name>
+           <name>&n; Абашин Марк Константинович  </name>
+           <name>&n; Абидов Александр Темурович    </name>
+           <name>&n; Абидов Тимур Магомедович  </name>
+           <name>&n; Аболонина Владислава Евгеньевна  </name>
+           <name>&n; Абросимова Ангелина Александровна   </name>
+           <name>&n; Авдеев Александр Вячеславович  </name>
+           <name>&n; Авдеева Виктория Вячеславовна  </name>
+           <name>&n; Авдеева Дарья Александровна  </name>
+           <name>&n; Аверьянов Тихон Игоревич  </name>
+           <name>&n; Аверьянова Екатерина Витальевна  </name>
+           <name>&n; Аверьянова Екатерина Витальевна  </name>
+           <name>&n; Автушенко Максим Евгеньевич  </name>
+           <name>&n; Агафонова Анна Андреевна   </name>
+           <name>&n; Азарьева Диана Раджиевна  </name>
+  </Students>
+  <Teachers>
+           <name&n; Абзалова Ольга Анатольевна   </name>
+           <name&n; Абрашова Валентина Борисовна  </name>
+           <name&n; Агапов Дмитрий Борисович  </name>
+           <name&n; Агафонова Мария Александровна  </name>
+           <name&n; Адибекова Ольга Анатольевна   </name>
+           <name&n; Алигишиева Амина Магомедовна  </name>
+           <name&n; Алямов Равиль Хайдарович  </name>
+           <name&n; Арисова Светлана Сергеевна </name>
+           <name&n; Балина Елена Андреевна  </name>
+           <name&n; Бариева Фирдаус Раисовна  </name>
+           <name&n; Барыльникова Жанна Прокофьевна  </name>
+  </Teachers>
+  <Director>
+           <name&n; Гусев Вячеслав Борисович </name>
+  </Director>
+  <Class>
+           <name&n; 1-F    </name>
+           <name&n; 1-AH    </name>
+           <name&n; 1-Б    </name>
+           <name&n; 1-БН    </name>
+           <name&n; 1-В    </name>
+           <name&n; 2-А    </name>
+           <name&n; 2-Б    </name>
+           <name&n; 3-А    </name>
+           <name&n; 3-Ан    </name>
+           <name&n; 4-А    </name>         
+           <name&n; 5-А   </name>
+           <name&n; 6-В    </name>
+           <name&n; 7-Б    </name>
+  </Class>
+</school>
+
+
+
