@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362740504433",
+    "firebase_url": "https://road-a5615.firebaseio.com",
+    "project_id": "road-a5615",
+    "storage_bucket": "road-a5615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362740504433:android:173d4bec737145bd",
+        "android_client_info": {
+          "package_name": "asergeev.samsung.itschool.ru.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362740504433-36th9ceei2jgpa4h821d0ol3uk5bv8pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asergeev.samsung.itschool.ru.myapp",
+            "certificate_hash": "46202FAA099960D510698C20C5D197531CEC89C0"
+          }
+        },
+        {
+          "client_id": "362740504433-49a9f8gq8bae7fm264ra42758mau21bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_TovIvCBXEdChMofKzBy_beMr6mMVbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362740504433-49a9f8gq8bae7fm264ra42758mau21bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

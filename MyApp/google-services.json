@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "362740504433",
+    "firebase_url": "https://road-a5615.firebaseio.com",
+    "project_id": "road-a5615",
+    "storage_bucket": "road-a5615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362740504433:android:173d4bec737145bd",
+        "android_client_info": {
+          "package_name": "asergeev.samsung.itschool.ru.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362740504433-49a9f8gq8bae7fm264ra42758mau21bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_TovIvCBXEdChMofKzBy_beMr6mMVbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
