@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleServices</string>
+
+    <string name="latitude_label">Широта</string>
+    <string name="longitude_label">Долгота</string>
+    <string name="last_update_time_label">Последнее обновление в:</string>
+
+    <string name="start_updates">Старт</string>
+    <string name="stop_updates">Стор</string>
+    <string name="location_updated_message">Координаты изменились!</string>
+</resources>
